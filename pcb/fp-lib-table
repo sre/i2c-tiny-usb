@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name i2c-tiny-usb)(type KiCad)(uri "$(KIPRJMOD)")(options "")(descr ""))
+  (lib (name soic)(type KiCad)(uri "$(KIPRJMOD)/SOIC.pretty")(options "")(descr ""))
+)

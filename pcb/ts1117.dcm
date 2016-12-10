@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TS1117
+D TS1117, Fixed 800mA Low Dropout Voltage Regulator, Positive
+K REGULATOR LDO
+F http://cdn-reichelt.de/documents/datenblatt/A100/DS_TS1117.pdf
+$ENDCMP
+#
+#End Doc Library
