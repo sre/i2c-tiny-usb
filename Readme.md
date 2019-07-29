@@ -18,4 +18,8 @@ https://creativecommons.org/licenses/by/3.0/
 
 ![Rendered PCB](./images/rendering.png)
 
+![PCB with Case Top](./images/photo1.jpg)
+
+![PCB with Case Bottom](./images/photo2.jpg)
+
 -- Sebastian Reichel <sre@ring0.de>
